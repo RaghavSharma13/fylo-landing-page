@@ -1,0 +1,15 @@
+.tile{
+    margin-top:20px;
+    display:flex;
+    width:min(100%,225px);
+}
+.tile img{
+    width:20px;
+    height:20px;
+}
+.tile h4{
+    width:100%;
+    margin-left:20px;
+    color:white;
+    font-weight:400;
+}

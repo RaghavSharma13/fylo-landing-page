@@ -1,0 +1,27 @@
+.nav{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    
+    padding:24px;
+}
+.nav img{
+    height:24px;
+    cursor:pointer;
+}
+.nav ul{
+    list-style:none;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    width:65%;
+}
+.nav li{
+    color:var(--Very-Dark-Blue);
+    cursor:pointer
+}
+@media (min-width:770px){
+    .nav ul{
+        width:25%;
+    }
+}
