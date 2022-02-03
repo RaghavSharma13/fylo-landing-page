@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/fylo-landing-page/static/css/main.7c8c0421.chunk.css",
+    "main.js": "/fylo-landing-page/static/js/main.eb2559f4.chunk.js",
+    "main.js.map": "/fylo-landing-page/static/js/main.eb2559f4.chunk.js.map",
+    "runtime-main.js": "/fylo-landing-page/static/js/runtime-main.c98931f3.js",
+    "runtime-main.js.map": "/fylo-landing-page/static/js/runtime-main.c98931f3.js.map",
+    "static/js/2.85ba0dcf.chunk.js": "/fylo-landing-page/static/js/2.85ba0dcf.chunk.js",
+    "static/js/2.85ba0dcf.chunk.js.map": "/fylo-landing-page/static/js/2.85ba0dcf.chunk.js.map",
+    "index.html": "/fylo-landing-page/index.html",
+    "static/css/main.7c8c0421.chunk.css.map": "/fylo-landing-page/static/css/main.7c8c0421.chunk.css.map",
+    "static/js/2.85ba0dcf.chunk.js.LICENSE.txt": "/fylo-landing-page/static/js/2.85ba0dcf.chunk.js.LICENSE.txt",
+    "static/media/bg-curve-desktop.37e8a645.svg": "/fylo-landing-page/static/media/bg-curve-desktop.37e8a645.svg",
+    "static/media/bg-curve-mobile.5397c1fb.svg": "/fylo-landing-page/static/media/bg-curve-mobile.5397c1fb.svg",
+    "static/media/icon-arrow.c5595248.svg": "/fylo-landing-page/static/media/icon-arrow.c5595248.svg",
+    "static/media/icon-email.19ab894b.svg": "/fylo-landing-page/static/media/icon-email.19ab894b.svg",
+    "static/media/icon-facebook.e9773e52.svg": "/fylo-landing-page/static/media/icon-facebook.e9773e52.svg",
+    "static/media/icon-instagram.8d0df555.svg": "/fylo-landing-page/static/media/icon-instagram.8d0df555.svg",
+    "static/media/icon-phone.43c05d1a.svg": "/fylo-landing-page/static/media/icon-phone.43c05d1a.svg",
+    "static/media/icon-quotes.fefaf075.svg": "/fylo-landing-page/static/media/icon-quotes.fefaf075.svg",
+    "static/media/icon-twitter.5dc7711f.svg": "/fylo-landing-page/static/media/icon-twitter.5dc7711f.svg",
+    "static/media/illustration-1.61162776.svg": "/fylo-landing-page/static/media/illustration-1.61162776.svg",
+    "static/media/illustration-2.b324b94f.svg": "/fylo-landing-page/static/media/illustration-2.b324b94f.svg",
+    "static/media/logo.866a54e8.svg": "/fylo-landing-page/static/media/logo.866a54e8.svg",
+    "static/media/logoWhite.f5363383.svg": "/fylo-landing-page/static/media/logoWhite.f5363383.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c98931f3.js",
+    "static/js/2.85ba0dcf.chunk.js",
+    "static/css/main.7c8c0421.chunk.css",
+    "static/js/main.eb2559f4.chunk.js"
+  ]
+}
